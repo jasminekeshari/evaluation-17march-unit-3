@@ -1,0 +1,23 @@
+{
+    "formFields": [
+      {
+        "key": "user_name",
+        "label": "Name",
+        "type": "text",
+        "maxLength": "50"
+      },
+      {
+        "key": "mobile_no",
+        "label": "Mobile number",
+        "type": "number",
+        "maxLength": "10"
+      },
+      {
+        "key": "email",
+        "label": "Email",
+        "type": "email"
+      }
+    ],
+    "submissions": []
+  }
+  
